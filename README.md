@@ -8,7 +8,7 @@ Customers will be able to use input statements to filter the data for their weat
 which will be used to identify potential travel destinations and nearby hotels.
 Lastly, we created both a travel itinerary and travel map as well as a marker layer map.
 ## Results
-We have the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, we create a travel route between the four cities as well as a marker layer map.
+We have the list of potential travel destinations, it will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, we create a travel route between the four cities as well as a marker layer map.
 
 
    
